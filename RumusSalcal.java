@@ -18,7 +18,7 @@ public class RumusSalcal{
 	    netto = gaji1 - pengurang;
 	    pph21 = netto + tunjangan;
 	    pphtotal = (gaji1 + tunjangan) - pph21;
-		System.out.print("Gaji per Bulan  :  \n");
+		System.out.print("Gaji Bulan  :  \n");
 		System.out.print(pphtotal + " \n");
 	   
 	    //bpjs
