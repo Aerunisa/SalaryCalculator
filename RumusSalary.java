@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class RumusSalcal{
 	public static void main(String[] args) {
-		double gaji1=3500000.0;
+		double gaji1=2000000.0;
 		double tunjangan = 550000.0;
 		double bjabatan;
     	double netto,pph21,pphtotal;
